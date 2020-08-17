@@ -1,0 +1,3 @@
+2020-08-17 19:35:24 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: life
+2020-08-17 19:35:26 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for life is 200
+2020-08-17 19:35:26 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for lifeis [leif, lfie, eifl, fiel, elfi, flei, ifle, ielf, elif, efil, lief, lfei, feil, lefi, life, eilf, efli, flie, file, ilfe, iefl, feli, ifel, ilef]
