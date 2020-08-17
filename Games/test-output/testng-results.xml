@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Input Word: art is a string]]>
+    </line>
+    <line>
+      <![CDATA[The Jumbled Word entered  'rat' is one of the correct entries.]]>
+    </line>
+    <line>
+      <![CDATA[Correct Message displayed for passed test]]>
+    </line>
+    <line>
+      <![CDATA[Please find logs at: file:\\\C:\Users\HP\Desktop\PriyamsWorkplace\Games\logs\log4j.log]]>
+    </line>
+    <line>
+      <![CDATA[Please find report at: file:\\\C:\Users\HP\Desktop\PriyamsWorkplace\Games\test-output\emailable-report.html]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40818" started-at="2020-08-17T19:07:10Z" finished-at="2020-08-17T19:07:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40818" started-at="2020-08-17T19:07:10Z" finished-at="2020-08-17T19:07:51Z">
+      <class name="games.NewTest">
+        <test-method status="PASS" signature="checkInput(java.lang.String)[pri:0, instance:games.NewTest@31ef45e3]" name="checkInput" duration-ms="19" started-at="2020-08-18T00:37:10Z" data-provider="data" finished-at="2020-08-18T00:37:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[art]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Input Word: art is a string]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkInput -->
+        <test-method status="PASS" signature="executeGame(java.lang.String)[pri:0, instance:games.NewTest@31ef45e3]" name="executeGame" duration-ms="40753" started-at="2020-08-18T00:37:10Z" data-provider="data" depends-on-methods="games.NewTest.checkInput" finished-at="2020-08-18T00:37:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[art]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The Jumbled Word entered  'rat' is one of the correct entries.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeGame -->
+        <test-method status="PASS" signature="checkOutput()[pri:0, instance:games.NewTest@31ef45e3]" name="checkOutput" duration-ms="0" started-at="2020-08-18T00:37:51Z" depends-on-methods="games.NewTest.executeGame" finished-at="2020-08-18T00:37:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Correct Message displayed for passed test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkOutput -->
+        <test-method status="PASS" signature="display()[pri:0, instance:games.NewTest@31ef45e3]" name="display" is-config="true" duration-ms="1" started-at="2020-08-18T00:37:51Z" finished-at="2020-08-18T00:37:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Please find logs at: file:\\\C:\Users\HP\Desktop\PriyamsWorkplace\Games\logs\log4j.log]]>
+            </line>
+            <line>
+              <![CDATA[Please find report at: file:\\\C:\Users\HP\Desktop\PriyamsWorkplace\Games\test-output\emailable-report.html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- games.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
