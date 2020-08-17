@@ -1,0 +1,18 @@
+2020-08-17 19:23:53 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: life
+2020-08-17 19:23:56 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for life is 200
+2020-08-17 19:23:56 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for lifeis [leif, lfie, eifl, fiel, elfi, flei, ifle, ielf, elif, efil, lief, lfei, feil, lefi, life, eilf, efli, flie, file, ilfe, iefl, feli, ifel, ilef]
+2020-08-17 19:24:15 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: life
+2020-08-17 19:24:17 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for life is 200
+2020-08-17 19:24:17 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for lifeis [leif, lfie, eifl, fiel, elfi, flei, ifle, ielf, elif, efil, lief, lfei, feil, lefi, life, eilf, efli, flie, file, ilfe, iefl, feli, ifel, ilef]
+2020-08-17 19:25:17 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: life
+2020-08-17 19:25:18 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for life is 200
+2020-08-17 19:25:18 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for lifeis [leif, lfie, eifl, fiel, elfi, flei, ifle, ielf, elif, efil, lief, lfei, feil, lefi, life, eilf, efli, flie, file, ilfe, iefl, feli, ifel, ilef]
+2020-08-17 19:27:39 {main} {} INFO  Jumble.executeJumbleGame:135 - User entered pole for life
+2020-08-17 19:27:39 {main} {} INFO  Jumble.executeJumbleGame:151 - The Jumbled Word  'pole' entered is incorrect entry for 'life'
+2020-08-17 19:27:39 {main} {} INFO  Jumble.executeJumbleGame:153 - All valid jumbled words for lifeis [file, lief]
+2020-08-17 19:28:03 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: life
+2020-08-17 19:28:05 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for life is 200
+2020-08-17 19:28:05 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for lifeis [leif, lfie, eifl, fiel, elfi, flei, ifle, ielf, elif, efil, lief, lfei, feil, lefi, life, eilf, efli, flie, file, ilfe, iefl, feli, ifel, ilef]
+2020-08-17 19:30:19 {main} {} INFO  Jumble.executeJumbleGame:135 - User entered pole for life
+2020-08-17 19:30:19 {main} {} INFO  Jumble.executeJumbleGame:151 - The Jumbled Word  'pole' entered is incorrect entry for 'life'
+2020-08-17 19:30:19 {main} {} INFO  Jumble.executeJumbleGame:153 - All valid jumbled words for lifeis [file, lief]

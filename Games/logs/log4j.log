@@ -1,0 +1,6 @@
+2020-08-18 00:37:10 {main} {} INFO  Jumble.executeJumbleGame:46 - Word in question is: art
+2020-08-18 00:37:12 {main} {} INFO  Jumble.executeJumbleGame:50 - Status of the dictionary service for art is 200
+2020-08-18 00:37:12 {main} {} INFO  Jumble.executeJumbleGame:63 - All possible combinations for artis [art, tra, rat, tar, atr, rta]
+2020-08-18 00:37:51 {main} {} INFO  Jumble.executeJumbleGame:135 - User entered rat for art
+2020-08-18 00:37:51 {main} {} INFO  Jumble.executeJumbleGame:151 - The Jumbled Word entered  'rat' is one of the correct entries.
+2020-08-18 00:37:51 {main} {} INFO  Jumble.executeJumbleGame:153 - All valid jumbled words for artis [rat, rta, tar]
