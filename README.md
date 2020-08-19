@@ -2,15 +2,14 @@
 ## Games - Jumble
 Jumble Word is a game that allows users to give a jumbled up word for a given word. The Game will not only let the user know if he was correct/wrong, but also would give solution with all possible valid jumbled up words possible of that word. 
 ### Technologies Used
-Before you begin, ensure you have met the following requirements:
 *	Java
 *	TestNG
 *	Maven
 *	REST
 ### Using
 * Run through TESTNG xml (via eclipse/Jenkins..)
-* A Word Challenge would be thrown based on the word given to the program from Data Provider
-*	If the WORD given in Data Provider is not valid, the game would not executed
+* A Word Challenge would be thrown based on the word given to the program from the TestNG Data Provider
+*	If the WORD given in Data Provider is not valid, the game would not be executed
 *	If Word Is valid, you will be asked to give a jumbled up word for this word
 *	Once you enter this word, code would check if the word entered is from the list of valid jumbled up word it has found
 *	If your answer is correct it gives a successful message
