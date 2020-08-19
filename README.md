@@ -1,6 +1,6 @@
 # PracticeProblems
 ## Games - Jumble
-Jumble Word is a game that allows users to do give a jumbled up word for a given word. The Game will not only let the user know if he was correct/wrong, but also would give solution with all possible valid jumbled up words possible of that word. 
+Jumble Word is a game that allows users to give a jumbled up word for a given word. The Game will not only let the user know if he was correct/wrong, but also would give solution with all possible valid jumbled up words possible of that word. 
 ### Technologies Used
 Before you begin, ensure you have met the following requirements:
 *	Java
