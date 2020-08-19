@@ -29,6 +29,6 @@ Jumble Word is a game that allows users to give a jumbled up word for a given wo
           *	comparehashMaps – compares two hashmaps (not used)
      *	Permutations – This class contains methods to give all possible combinations of a given any word or sequence of letters.
           *	permutationFinder – get a set of all permutations of a string
-          *	charInster – forms a string of three substrings
+          *	charInsert – forms a string of three substrings
 ### Contact
 If you want to contact me you can reach me at priyam.sinha@ymail.com.
